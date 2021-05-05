@@ -2,44 +2,44 @@
   "posts": [
     {
       "id": 1,
-      "title": "Lorem 1",
-      "body": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+      "title": "Задача организации",
+      "body": "В особенности же постоянный количественный рост и сфера нашей активности представляет собой интересный эксперимент проверки форм развития. Задача организации, в особенности же новая модель организационной деятельности позволяет оценить значение систем массового участия. "
     },
     {
       "id": 2,
-      "title": "Lorem 2",
-      "body": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+      "title": "Товарищи!",
+      "body": "Таким образом укрепление и развитие структуры способствует подготовки и реализации существенных финансовых и административных условий."
     },
     {
       "id": 3,
-      "title": "Lorem 3",
-      "body": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+      "title": "Значимость",
+      "body": "этих проблем настолько очевидна, что укрепление и развитие структуры играет важную роль в формировании направлений прогрессивного развития. Равным образом консультация с широким активом представляет собой интересный эксперимент проверки новых предложений."
     }
   ],
   "comments": [
     {
       "id": 1,
-      "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+      "text": "Разнообразный и богатый опыт сложившаяся структура организации представляет собой интересный эксперимент проверки дальнейших направлений развития. Повседневная практика показывает, что постоянное информационно-пропагандистское обеспечение нашей деятельности представляет собой интересный эксперимент проверки направлений прогрессивного развития.",
       "postId": 1
     },
     {
       "id": 2,
-      "text": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?",
+      "text": " С другой стороны реализация намеченных плановых заданий представляет собой интересный эксперимент проверки соответствующий условий активизации.",
       "postId": 3
     },
     {
       "id": 3,
-      "text": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?",
+      "text": "Повседневная практика показывает, что дальнейшее развитие различных форм деятельности требуют определения и уточнения позиций, занимаемых участниками в отношении поставленных задач. ",
       "postId": 3
     },
     {
       "id": 4,
-      "text": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?",
+      "text": " Задача организации, в особенности же дальнейшее развитие различных форм деятельности влечет за собой процесс внедрения и модернизации форм развития.",
       "postId": 2
     },
     {
       "id": 5,
-      "text": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?",
+      "text": "Значимость этих проблем настолько очевидна, что дальнейшее развитие различных форм деятельности в значительной степени обуславливает создание форм развития.",
       "postId": 1
     }
   ]
